@@ -1,0 +1,32 @@
+# Python dependencies
+*.pyc
+__pycache__/
+
+# Frontend dependencies
+Week2-PyTorch/frontend/node_modules/
+Week2-PyTorch/frontend/dist/
+
+# Data files
+Week2-PyTorch/model/data/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+Week2-PyTorch/.ipynb_checkpoints/
+
+# Model files
+*.pth
+Week2-PyTorch/*.pth
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+Week2-PyTorch/.idea/
+Week2-PyTorch/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Week2-PyTorch/.DS_Store
+Week2-PyTorch/Thumbs.db
