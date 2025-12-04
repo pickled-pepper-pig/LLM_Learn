@@ -1,0 +1,26 @@
+# Python dependencies
+*.pyc
+__pycache__/
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Data files
+model/data/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Model files
+*.pth
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
